@@ -1,0 +1,81 @@
+body {
+    background-color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header{
+    background-color: #E7E9FC;
+}
+
+.logo {
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+}
+
+.iris {
+    color: #4a5ae5;
+}
+
+.navy-blue {
+    color: #2e2f42;
+}
+
+.page-nav {
+color: #2e2f42;
+font-size: 16px;
+font-weight: 500;
+}
+
+address {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.title-button {
+    background-color: #2e2f42;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    text-align: center;
+    color: #ffffff;
+}
+
+button {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #4d5ae5;
+    color: #ffffff;
+}
+
+.our-advantage-title {
+    font-weight: 500;
+    font-size: 20px;
+    color: #2e2f42;
+}
+
+.paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+
+.our-team {
+    background-color: #f4f4fd;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #2e2f42;
+    text-align: center;
+}
+
