@@ -3,7 +3,7 @@ body {
     font-family: "Roboto", "Raleway", sans-serif;
     color: #434455;
     text-decoration: none;
-    list-style: none;
+    list-style-type: none;
 }
 
 header{
@@ -18,11 +18,11 @@ header{
     font-family: "Raleway", sans-serif;
 }
 
-.iris {
+.logo .iris {
     color: #4a5ae5;
 }
 
-.navy-blue {
+.logo .navy-blue {
     color: #2e2f42;
 }
 
