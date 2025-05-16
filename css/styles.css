@@ -1,9 +1,10 @@
-body {
+html, body, ul, a, nav, address {
     background-color: #ffffff;
     font-family: "Roboto", "Raleway", sans-serif;
     color: #434455;
     text-decoration: none;
     list-style-type: none;
+    font-style: normal;
 }
 
 header{
@@ -18,27 +19,27 @@ header{
     font-family: "Raleway", sans-serif;
 }
 
-.logo .iris {
+.logo .logo-web {
     color: #4a5ae5;
 }
 
-.logo .navy-blue {
+.logo .logo-studio {
     color: #2e2f42;
 }
 
-.page-nav {
+.header .navigation .page-navigation {
 color: #2e2f42;
 font-size: 16px;
 font-weight: 500;
 }
 
-address {
+.header .address .page-address {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
 }
 
-.title-button {
+.button-order {
     background-color: #2e2f42;
 }
 
@@ -49,20 +50,20 @@ h1 {
     color: #ffffff;
 }
 
-button {
+.button-order .button {
     font-size: 16px;
     font-weight: 500;
     background-color: #4d5ae5;
     color: #ffffff;
 }
 
-.our-advantage-title {
+.our-advantage .our-advantage-title {
     font-weight: 500;
     font-size: 20px;
     color: #2e2f42;
 }
 
-.paragraph {
+.our-advantage .paragraph {
     font-size: 16px;
     font-weight: 400;
     color: #434455;
@@ -79,3 +80,63 @@ h2 {
     text-align: center;
 }
 
+.our-team .photo-our-team {
+background-color: #ffffff;
+}
+
+.our-team .our-team-title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2E2F42;
+    text-align: center;
+}
+
+.our-team .our-team-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+    text-align: center;
+}
+
+.portfolio .portfolio-photo {
+    background-color: #ffffff;
+}
+
+.portfolio .portfolio-title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.portfolio .portfolio-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+
+.footer {
+    background-color: #2e2f42;
+    }
+
+.footer .footer-logo {
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    background-color: #2e2f42;
+        }
+
+.footer .footer-logo .footer-logo-web {
+    color: #4d5ae5;
+}
+
+.footer .footer-logo .footer-logo-studio {
+    color: #f4f4fd;
+}
+
+.footer .footer-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    color: #f4f4fd;
+}
