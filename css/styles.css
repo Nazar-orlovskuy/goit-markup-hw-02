@@ -7,6 +7,11 @@ html, body, ul, a, nav, address {
     font-style: normal;
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+/* стиль логотипу */
 header{
     background-color: #E7E9FC;
 }
@@ -26,6 +31,7 @@ header{
     color: #2e2f42;
 }
 
+/* стиль навігації */
 .header .navigation .page-navigation, .link {
 color: #2e2f42;
 font-size: 16px;
@@ -34,13 +40,12 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-
-
 .header .navigation .page-navigation .link:hover,
 .header .navigation .page-navigation .link:focus {
     color: #404bbf;
 }
 
+/* стиль адресу */
 .header .address .page-address {
     color: #434455;
     font-size: 16px;
@@ -56,6 +61,8 @@ letter-spacing: 0.02em;
     color: #404bbf;
 }
 
+/* оформлення стилю першої секції
+стиль кнопки */
 .button-order {
     background-color: #2e2f42;
 }
@@ -85,6 +92,7 @@ letter-spacing: 0.02em;
     background-color: #404bbf;
 }
 
+/* оформлення стилю другої секції */
 .our-advantage .our-advantage-title {
     font-weight: 500;
     font-size: 20px;
@@ -101,6 +109,7 @@ letter-spacing: 0.02em;
     line-height: 1.5;
 }
 
+/* оформлення стилю третьої секції */
 .our-team {
     background-color: #f4f4fd;
 }
@@ -137,6 +146,7 @@ background-color: #ffffff;
     letter-spacing: 0.02em;
 }
 
+/* оформлення стилю четвертої секції */
 .portfolio .title-second{
     font-size: 36px;
     font-weight: 700;
@@ -166,6 +176,7 @@ background-color: #ffffff;
     letter-spacing: 0.02em;
 }
 
+/* оформлення футера та логотипу */
 .footer {
     background-color: #2e2f42;
     }
