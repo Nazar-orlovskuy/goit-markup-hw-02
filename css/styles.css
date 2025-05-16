@@ -54,10 +54,8 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 
-.header .address .page-address .address-mail:hover,
-.header .address .page-address .address-mail:focus,
-.header .address .page-address .address-tel:hover,
-.header .address .page-address .address-tel:focus {
+.header .address .page-address .address-link:hover,
+.header .address .page-address .address-link:focus {
     color: #404bbf;
 }
 
