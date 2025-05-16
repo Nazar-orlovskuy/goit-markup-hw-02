@@ -1,6 +1,6 @@
 html, body, ul, a, nav, address {
     background-color: #ffffff;
-    font-family: "Roboto", "Raleway" sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     text-decoration: none;
     list-style-type: none;
@@ -26,13 +26,15 @@ header{
     color: #2e2f42;
 }
 
-.header .navigation .page-navigation {
+.header .navigation .page-navigation, .link {
 color: #2e2f42;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+
+
 
 .header .navigation .page-navigation .link:hover,
 .header .navigation .page-navigation .link:focus {
