@@ -16,7 +16,7 @@ header{
     background-color: #E7E9FC;
 }
 
-.home-link {
+.header .home-link {
     font-size: 18px;
     font-weight: 700;
     text-decoration: none;
